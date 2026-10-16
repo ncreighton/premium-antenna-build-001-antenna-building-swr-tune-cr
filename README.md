@@ -1,0 +1,2 @@
+# premium-antenna-build-001-antenna-building-swr-tune-cr
+Tired of wrestling with loose notes, messy test logs, and endless resizing just to get a clean SWR curve? Stop the chaos and start your first antenna build with a single, structured system.  This template transforms Notion into your personalized antenna workshop — no more scattered documents or forgotten measurements. It centralizes your entire bui
